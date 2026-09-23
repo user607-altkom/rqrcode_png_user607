@@ -57,6 +57,8 @@ end
 * Send a pull request
 * Don't touch the .gemspec, I'll do that when I release a new version
 
+* test
+
 ## Copyright
 MIT Licence (http://www.opensource.org/licenses/mit-license.html)
 
